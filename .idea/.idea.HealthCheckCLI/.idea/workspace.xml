@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6658de6a-81f4-4489-ad1c-d207d269a105" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.Data/datastore.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.Data/Repositories/Repository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.CLI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.Models/Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.CLI/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.CLI/App.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.CLI/Commands/RunCheckCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.Data/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.Core/Client/HealthCheckClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.Models/Group.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HealthCheckCLI.Models/Url.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HealthCheckCLI.CLI/Commands/appsettings.json" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Client/Program.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.CLI/HealthCheckCLI.CLI.csproj" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Core/Client/HealthCheckClient.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.CLI/App.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Data/Repositories/GroupRepository.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Data/Repositories/UrlRepository.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.CLI/Commands/RunCheckCommand.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Models/Class1.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Data/datastore.json" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Models/Group.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Models/Data.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Models/Url.cs" />
+        <option value="$PROJECT_DIR$/HealthCheckCLI.Data/Repositories/Repository.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XXGa1e0nX5LekMJI8F3PXnOkgK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HealthCheckCLI.CLI" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HealthCheckCLI.CLI/HealthCheckCLI.CLI.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6658de6a-81f4-4489-ad1c-d207d269a105" name="Default Changelist" comment="" />
+      <created>1581185085704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581185085704</updated>
+      <workItem from="1581185087192" duration="1213000" />
+      <workItem from="1581186940190" duration="3687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="288" y="147" key="Rider.ProjectTemplateDialog.Size" timestamp="1581189817370">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="288" y="147" key="Rider.ProjectTemplateDialog.Size/0.0.1280.680@0.0.1280.680" timestamp="1581189817370" />
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581185350508">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581185350508" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/HealthCheckCLI.Data/Repositories/Repository.cs</url>
+          <line>49</line>
+          <properties documentPath="$PROJECT_DIR$/HealthCheckCLI.Data/Repositories/Repository.cs" initialLine="45">
+            <startOffsets>
+              <option value="1228" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1229" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

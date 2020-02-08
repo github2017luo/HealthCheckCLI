@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <PackAsTool>true</PackAsTool>
+        <ToolCommandName>hc-cli</ToolCommandName>
+        <PackageId>hc-cli</PackageId>
+        <PackageOutputPath>.nuget</PackageOutputPath>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="2.5.1" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.1" />
+    </ItemGroup>
+    
+    <ItemGroup>
+      <ProjectReference Include="..\HealthCheckCLI.Core\HealthCheckCLI.Core.csproj" />
+    </ItemGroup>
+
+</Project>

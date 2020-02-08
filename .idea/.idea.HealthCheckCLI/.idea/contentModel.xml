@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Dev\dotnet projects\HealthCheckCLI" t="IncludeFlat">
+      <e p="HealthCheckCLI.CLI" t="IncludeRecursive">
+        <e p="App.cs" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Commands" t="Include">
+          <e p="RunCheckCommand.cs" t="Include" />
+        </e>
+        <e p="HealthCheckCLI.CLI.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HealthCheckCLI.CLI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="HealthCheckCLI.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client" t="Include">
+          <e p="HealthCheckClient.cs" t="Include" />
+        </e>
+        <e p="HealthCheckCLI.Core.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HealthCheckCLI.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HealthCheckCLI.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="datastore.json" t="Include" />
+        <e p="HealthCheckCLI.Data.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HealthCheckCLI.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="Repository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="HealthCheckCLI.Models" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data.cs" t="Include" />
+        <e p="Group.cs" t="Include" />
+        <e p="HealthCheckCLI.Models.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HealthCheckCLI.Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Url.cs" t="Include" />
+      </e>
+      <e p="HealthCheckCLI.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\tmaso\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tmaso\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_HealthCheckCLI.979104596.00" t="ExcludeRecursive" />
+  </component>
+</project>
